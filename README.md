@@ -32,5 +32,6 @@ Testing:
 Tests can then be run after installation with:
 
     python -c 'import numpy; numpy.test()'
+    conda env create -f environment.yml
 
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://numfocus.org)
